@@ -1,2 +1,2 @@
-# -Offer
-剑指Offer的代码实现和思路讲解
+# Sword-Offer-Java
+剑指Offer的Java代码实现和思路讲解
