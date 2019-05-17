@@ -23,3 +23,5 @@
 [11——二进制中1的个数](https://github.com/CaiXiaoBai/Sword-Offer-Java/blob/master/Code/11%E2%80%94%E2%80%94%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.md)
 
 [12——数值的整数次方](https://github.com/CaiXiaoBai/Sword-Offer-Java/blob/master/Code/12——数值的整数次方.md)
+
+[13——链表中倒数第 K 个结点](https://github.com/CaiXiaoBai/Sword-Offer-Java/blob/master/Code/13——链表中倒数第%20K%20个结点.md)
