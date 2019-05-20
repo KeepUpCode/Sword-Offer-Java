@@ -25,3 +25,5 @@
 [12——数值的整数次方](https://github.com/CaiXiaoBai/Sword-Offer-Java/blob/master/Code/12——数值的整数次方.md)
 
 [13——链表中倒数第 K 个结点](https://github.com/CaiXiaoBai/Sword-Offer-Java/blob/master/Code/13——链表中倒数第%20K%20个结点.md)
+
+[14——反转链表](https://github.com/CaiXiaoBai/Sword-Offer-Java/blob/master/Code/14——反转链表.md)
